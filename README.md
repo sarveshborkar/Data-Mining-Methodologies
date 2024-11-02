@@ -1,3 +1,3 @@
 # Data-Mining-Methodologies
 
-Deomostrating CRISP-DM, SEMMA & KDD as intudstry standard data mininig methodologies.
+Problem Statement : To analyze dataset using several Data Mingin Methodologies namely CRISP-DM, SEMMA & KDD to demonstrate industry standard practices.
